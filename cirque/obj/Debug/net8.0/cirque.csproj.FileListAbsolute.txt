@@ -1,0 +1,14 @@
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\bin\Debug\net8.0\cirque.exe
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\bin\Debug\net8.0\cirque.deps.json
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\bin\Debug\net8.0\cirque.runtimeconfig.json
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\bin\Debug\net8.0\cirque.dll
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\bin\Debug\net8.0\cirque.pdb
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\cirque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\cirque.AssemblyInfoInputs.cache
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\cirque.AssemblyInfo.cs
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\cirque.csproj.CoreCompileInputs.cache
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\cirque.dll
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\refint\cirque.dll
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\cirque.pdb
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\cirque.genruntimeconfig.cache
+C:\Users\badrw\OneDrive\Documents\Formation C#\cirque\obj\Debug\net8.0\ref\cirque.dll
